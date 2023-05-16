@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\X O Game\X O Game\bin\Debug\X O Game.exe.config
+C:\Users\Administrator\source\repos\X O Game\X O Game\bin\Debug\X O Game.exe
+C:\Users\Administrator\source\repos\X O Game\X O Game\bin\Debug\X O Game.pdb
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X_O_Game.Form1.resources
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X_O_Game.Properties.Resources.resources
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.exe
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.pdb
+C:\Users\Administrator\source\repos\X O Game\X O Game\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X O Game.csproj.CopyComplete
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X_O_Game.Frm2Player.resources
+C:\Users\Administrator\source\repos\X O Game\X O Game\obj\Debug\X_O_Game.Frm_OnePlayer.resources
